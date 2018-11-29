@@ -8,7 +8,7 @@ Assignment | Name | Score
 :--- | :--- | ---
 Week 1 | Programming Challenges | 100/100
 Week 2 | Algorithmic Warmup | 100/100
-Week 3 | Greedy Algorithms | 
+Week 3 | Greedy Algorithms | 100/100
 
 **Algorithmic Warmup**
 
