@@ -24,6 +24,11 @@ Week 3 | Greedy Algorithms |
 **Greedy Algorithms**
 
 1. [Money Change](https://github.com/MarufHassan/coursera-data-structures-algorithms/tree/master/algorithmic-toolbox/week3_greedy_algorithms/1_money_change)
+2. [Maximum Value of the Loot](https://github.com/MarufHassan/coursera-data-structures-algorithms/tree/master/algorithmic-toolbox/week3_greedy_algorithms/2_maximum_value_of_the_loot)
+3. [Maximum Advertisement Revenue](https://github.com/MarufHassan/coursera-data-structures-algorithms/tree/master/algorithmic-toolbox/week3_greedy_algorithms/3_maximum_advertisement_revenue)
+4. [Collecting Signatures](https://github.com/MarufHassan/coursera-data-structures-algorithms/tree/master/algorithmic-toolbox/week3_greedy_algorithms/4_collecting_signatures)
+5. [Maximum Number of Prizes](https://github.com/MarufHassan/coursera-data-structures-algorithms/tree/master/algorithmic-toolbox/week3_greedy_algorithms/5_maximum_number_of_prizes)
+6. [Maximum Salary](https://github.com/MarufHassan/coursera-data-structures-algorithms/tree/master/algorithmic-toolbox/week3_greedy_algorithms/6_maximum_salary)
 
 [specializationlink]: https://www.coursera.org/specializations/data-structures-algorithms
 [courselink]: https://www.coursera.org/learn/algorithmic-toolbox
