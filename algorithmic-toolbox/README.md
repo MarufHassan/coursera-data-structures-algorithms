@@ -10,6 +10,11 @@ Week 1 | Programming Challenges | 100/100
 Week 2 | Algorithmic Warmup | 100/100
 Week 3 | Greedy Algorithms | 
 
+**Programming Challenges**
+
+1. [Sum of Two Digits](https://github.com/MarufHassan/coursera-data-structures-algorithms/tree/master/algorithmic-toolbox/week1_programming_challenges/1_sum_of_two_digits)
+2. [Maximum Pairwise Product](https://github.com/MarufHassan/coursera-data-structures-algorithms/tree/master/algorithmic-toolbox/week1_programming_challenges/2_maximum_pairwise_product)
+
 **Algorithmic Warmup**
 
 1. [Fibonacci Number](https://github.com/MarufHassan/coursera-data-structures-algorithms/tree/master/algorithmic-toolbox/week2_algorithmic_warmup/1_fibonacci_number)
@@ -29,6 +34,9 @@ Week 3 | Greedy Algorithms |
 4. [Collecting Signatures](https://github.com/MarufHassan/coursera-data-structures-algorithms/tree/master/algorithmic-toolbox/week3_greedy_algorithms/4_collecting_signatures)
 5. [Maximum Number of Prizes](https://github.com/MarufHassan/coursera-data-structures-algorithms/tree/master/algorithmic-toolbox/week3_greedy_algorithms/5_maximum_number_of_prizes)
 6. [Maximum Salary](https://github.com/MarufHassan/coursera-data-structures-algorithms/tree/master/algorithmic-toolbox/week3_greedy_algorithms/6_maximum_salary)
+
+
+**This is only for discussion and communication. Please don't use this for submission of assignments.**
 
 [specializationlink]: https://www.coursera.org/specializations/data-structures-algorithms
 [courselink]: https://www.coursera.org/learn/algorithmic-toolbox

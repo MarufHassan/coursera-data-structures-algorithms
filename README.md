@@ -2,13 +2,24 @@
 
 Programming assignments for [Data Structures and Algorithms Specialization][specializationlink].
 
-## [Algorithmic Toolbox][courselink]
+## About this Specialization
+
+This specialization is a mix of theory and practice: you will learn algorithmic techniques for solving various computational problems and will implement about 100 algorithmic coding problems in a programming language of your choice.
+
+The specialization contains two real-world projects: Big Networks and Genome Assembly. You will analyze both road networks and social networks and will learn how to compute the shortest route between New York and San Francisco (1000 times faster than the standard shortest path algorithms!) Afterwards, you will learn how to assemble genomes from millions of short fragments of DNA and how assembly algorithms fuel recent developments in personalized medicine.
+
+## [COURSE 1: Algorithmic Toolbox][courselink]
 
 Assignment | Name | Score
 :--- | :--- | ---
 Week 1 | Programming Challenges | 100/100
 Week 2 | Algorithmic Warmup | 100/100
 Week 3 | Greedy Algorithms | 100/100
+
+**Programming Challenges**
+
+1. [Sum of Two Digits](https://github.com/MarufHassan/coursera-data-structures-algorithms/tree/master/algorithmic-toolbox/week1_programming_challenges/1_sum_of_two_digits)
+2. [Maximum Pairwise Product](https://github.com/MarufHassan/coursera-data-structures-algorithms/tree/master/algorithmic-toolbox/week1_programming_challenges/2_maximum_pairwise_product)
 
 **Algorithmic Warmup**
 
@@ -29,6 +40,8 @@ Week 3 | Greedy Algorithms | 100/100
 4. [Collecting Signatures](https://github.com/MarufHassan/coursera-data-structures-algorithms/tree/master/algorithmic-toolbox/week3_greedy_algorithms/4_collecting_signatures)
 5. [Maximum Number of Prizes](https://github.com/MarufHassan/coursera-data-structures-algorithms/tree/master/algorithmic-toolbox/week3_greedy_algorithms/5_maximum_number_of_prizes)
 6. [Maximum Salary](https://github.com/MarufHassan/coursera-data-structures-algorithms/tree/master/algorithmic-toolbox/week3_greedy_algorithms/6_maximum_salary)
+
+**This is only for discussion and communication. Please don't use this for submission of assignments.**
 
 [specializationlink]: https://www.coursera.org/specializations/data-structures-algorithms
 [courselink]: https://www.coursera.org/learn/algorithmic-toolbox
