@@ -4,11 +4,16 @@ Programming assignments for [Data Structures and Algorithms Specialization][spec
 
 ## [Algorithmic Toolbox][courselink]
 
+## About the course
+
+The course covers basic algorithmic techniques and ideas for computational problems arising frequently in practical applications: sorting and searching, divide and conquer, greedy algorithms, dynamic programming. We will learn a lot of theory: how to sort data and how it helps for searching; how to break a large problem into pieces and solve them recursively; when it makes sense to proceed greedily; how dynamic programming is used in genomic studies. You will practice solving computational problems, designing new algorithms, and implementing solutions efficiently (so that they run in less than a second).
+
 Assignment | Name | Score
 :--- | :--- | ---
 Week 1 | Programming Challenges | 100/100
 Week 2 | Algorithmic Warmup | 100/100
-Week 3 | Greedy Algorithms | 
+Week 3 | Greedy Algorithms 	| 100/100
+Week 4 | Divide and Conquer | 100/100
 
 **Programming Challenges**
 
@@ -34,6 +39,16 @@ Week 3 | Greedy Algorithms |
 4. [Collecting Signatures](https://github.com/MarufHassan/coursera-data-structures-algorithms/tree/master/algorithmic-toolbox/week3_greedy_algorithms/4_collecting_signatures)
 5. [Maximum Number of Prizes](https://github.com/MarufHassan/coursera-data-structures-algorithms/tree/master/algorithmic-toolbox/week3_greedy_algorithms/5_maximum_number_of_prizes)
 6. [Maximum Salary](https://github.com/MarufHassan/coursera-data-structures-algorithms/tree/master/algorithmic-toolbox/week3_greedy_algorithms/6_maximum_salary)
+
+**Divide and Conquer**
+
+1. [Binary Search](https://github.com/MarufHassan/coursera-data-structures-algorithms/tree/master/algorithmic-toolbox/
+week4_divide_and_conquer/1_binary_search)
+2. [Majority Element](https://github.com/MarufHassan/coursera-data-structures-algorithms/tree/master/algorithmic-toolbox/week4_divide_and_conquer/2_majority_element)
+3. [Improving Quick Sort](https://github.com/MarufHassan/coursera-data-structures-algorithms/tree/master/algorithmic-toolbox/week4_divide_and_conquer/3_improving_quicksort)
+4. [Number of Inversions](https://github.com/MarufHassan/coursera-data-structures-algorithms/tree/master/algorithmic-toolbox/week4_divide_and_conquer/4_number_of_inversions)
+5. [Organizing a Lottery](https://github.com/MarufHassan/coursera-data-structures-algorithms/tree/master/algorithmic-toolbox/week4_divide_and_conquer/5_organizing_a_lottery)
+6. [Closest Points](https://github.com/MarufHassan/coursera-data-structures-algorithms/tree/master/algorithmic-toolbox/week4_divide_and_conquer/6_closest_points)
 
 
 **This is only for discussion and communication. Please don't use this for submission of assignments.**
