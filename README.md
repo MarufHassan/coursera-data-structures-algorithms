@@ -16,6 +16,7 @@ Week 1 | Programming Challenges | 100/100
 Week 2 | Algorithmic Warmup | 100/100
 Week 3 | Greedy Algorithms 	| 100/100
 Week 4 | Divide and Conquer | 100/100
+Week 5 | Dynamic Programming 1 | 100/100
 
 **Programming Challenges**
 
@@ -51,6 +52,13 @@ Week 4 | Divide and Conquer | 100/100
 5. [Organizing a Lottery](https://github.com/MarufHassan/coursera-data-structures-algorithms/tree/master/algorithmic-toolbox/week4_divide_and_conquer/5_organizing_a_lottery)
 6. [Closest Points](https://github.com/MarufHassan/coursera-data-structures-algorithms/tree/master/algorithmic-toolbox/week4_divide_and_conquer/6_closest_points)
 
+**Dynamic Programming 1**
+
+1. [Money Change Again](https://github.com/MarufHassan/coursera-data-structures-algorithms/tree/master/algorithmic-toolbox/week5_dynamic_programming1/1_money_change_again)
+2. [Primitive Calculator](https://github.com/MarufHassan/coursera-data-structures-algorithms/tree/master/algorithmic-toolbox/week5_dynamic_programming1/2_primitive_calculator)
+3. [Edit Distance](https://github.com/MarufHassan/coursera-data-structures-algorithms/tree/master/algorithmic-toolbox/week5_dynamic_programming1/3_edit_distance)
+4. [Longest Common Subsequence of Two Sequences](https://github.com/MarufHassan/coursera-data-structures-algorithms/tree/master/algorithmic-toolbox/week5_dynamic_programming1/4_longest_common_subsequence_of_two_sequences)
+5. [Longest Common Subsequence of Three Sequences](https://github.com/MarufHassan/coursera-data-structures-algorithms/tree/master/algorithmic-toolbox/week5_dynamic_programming1/5_longest_common_subsequence_of_three_sequences)
 
 
 **This is only for discussion and communication. Please don't use this for submission of assignments.**
