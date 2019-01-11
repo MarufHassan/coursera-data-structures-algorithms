@@ -22,10 +22,10 @@ Week 1 | Basic Data Structures | 100/100
 
 **Basic Data Structures**
 
-1. [Check brackets in the code](https://github.com/MarufHassan/coursera-data-structures-algorithms/tree/master/data-structures/week1_basic_data_structures/1_check_brackets_in_code)
-2. [Compute tree height](https://github.com/MarufHassan/coursera-data-structures-algorithms/tree/master/data-structures/week1_basic_data_structures/2_tree_height)
-3. [Network packet processing simulation](https://github.com/MarufHassan/coursera-data-structures-algorithms/tree/master/data-structures/week1_basic_data_structures/3_network_packet_processing_simulation)
-4. [Extending stack interface](https://github.com/MarufHassan/coursera-data-structures-algorithms/tree/master/data-structures/week1_basic_data_structures/4_stack_with_max)
+1. [Check brackets in the code](/week1_basic_data_structures/1_check_brackets_in_code)
+2. [Compute tree height](/data-structures/week1_basic_data_structures/2_tree_height)
+3. [Network packet processing simulation](/week1_basic_data_structures/3_network_packet_processing_simulation)
+4. [Extending stack interface](/week1_basic_data_structures/4_stack_with_max)
 
 
 **This is only for discussion and communication. Please don't use this for submission of assignments.**
