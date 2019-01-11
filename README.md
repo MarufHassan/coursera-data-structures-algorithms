@@ -8,7 +8,7 @@ This specialization is a mix of theory and practice: you will learn algorithmic 
 
 The specialization contains two real-world projects: Big Networks and Genome Assembly. You will analyze both road networks and social networks and will learn how to compute the shortest route between New York and San Francisco (1000 times faster than the standard shortest path algorithms!) Afterwards, you will learn how to assemble genomes from millions of short fragments of DNA and how assembly algorithms fuel recent developments in personalized medicine.
 
-## [COURSE 1: Algorithmic Toolbox][courselink]
+## [COURSE 1: Algorithmic Toolbox][courselink1]
 
 Assignment | Name | Score
 :--- | :--- | ---
@@ -17,6 +17,7 @@ Week 2 | Algorithmic Warmup | 100/100
 Week 3 | Greedy Algorithms 	| 100/100
 Week 4 | Divide and Conquer | 100/100
 Week 5 | Dynamic Programming 1 | 100/100
+Week 6 | Dynamic Programming 2 | 67/100
 
 **Programming Challenges**
 
@@ -60,8 +61,27 @@ Week 5 | Dynamic Programming 1 | 100/100
 4. [Longest Common Subsequence of Two Sequences](https://github.com/MarufHassan/coursera-data-structures-algorithms/tree/master/algorithmic-toolbox/week5_dynamic_programming1/4_longest_common_subsequence_of_two_sequences)
 5. [Longest Common Subsequence of Three Sequences](https://github.com/MarufHassan/coursera-data-structures-algorithms/tree/master/algorithmic-toolbox/week5_dynamic_programming1/5_longest_common_subsequence_of_three_sequences)
 
+**Dynamic Programming 2**
+1. [Maximum Amount of Gold](https://github.com/MarufHassan/coursera-data-structures-algorithms/tree/master/algorithmic-toolbox/week6_dynamic_programming2/1_maximum_amount_of_gold)
+2. Partitioning Souvenirs
+3. [Maximum Value of an Arithmetic Expression](https://github.com/MarufHassan/coursera-data-structures-algorithms/tree/master/algorithmic-toolbox/week6_dynamic_programming2/3_maximum_value_of_an_arithmetic_expression)
+
+## [COURSE 2: Data Structures][courselink2]
+
+Assignment | Name | Score
+:--- | :--- | ---
+Week 1 | Basic Data Structures | 100/100
+
+**Basic Data Structures**
+
+1. [Check brackets in the code](https://github.com/MarufHassan/coursera-data-structures-algorithms/tree/master/data-structures/week1_basic_data_structures/1_check_brackets_in_code)
+2. [Compute tree height](https://github.com/MarufHassan/coursera-data-structures-algorithms/tree/master/data-structures/week1_basic_data_structures/2_tree_height)
+3. [Network packet processing simulation](https://github.com/MarufHassan/coursera-data-structures-algorithms/tree/master/data-structures/week1_basic_data_structures/3_network_packet_processing_simulation)
+4. [Extending stack interface](https://github.com/MarufHassan/coursera-data-structures-algorithms/tree/master/data-structures/week1_basic_data_structures/4_stack_with_max)
+
 
 **This is only for discussion and communication. Please don't use this for submission of assignments.**
 
 [specializationlink]: https://www.coursera.org/specializations/data-structures-algorithms
-[courselink]: https://www.coursera.org/learn/algorithmic-toolbox
+[courselink1]: https://www.coursera.org/learn/algorithmic-toolbox
+[courselink2]: https://www.coursera.org/learn/data-structures

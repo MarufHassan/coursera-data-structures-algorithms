@@ -15,6 +15,7 @@ Week 2 | Algorithmic Warmup | 100/100
 Week 3 | Greedy Algorithms 	| 100/100
 Week 4 | Divide and Conquer | 100/100
 Week 5 | Dynamic Programming 1 | 100/100
+Week 6 | Dynamic Programming 2 | 67/100
 
 **Programming Challenges**
 
@@ -58,6 +59,11 @@ week4_divide_and_conquer/1_binary_search)
 3. [Edit Distance](https://github.com/MarufHassan/coursera-data-structures-algorithms/tree/master/algorithmic-toolbox/week5_dynamic_programming1/3_edit_distance)
 4. [Longest Common Subsequence of Two Sequences](https://github.com/MarufHassan/coursera-data-structures-algorithms/tree/master/algorithmic-toolbox/week5_dynamic_programming1/4_longest_common_subsequence_of_two_sequences)
 5. [Longest Common Subsequence of Three Sequences](https://github.com/MarufHassan/coursera-data-structures-algorithms/tree/master/algorithmic-toolbox/week5_dynamic_programming1/5_longest_common_subsequence_of_three_sequences)
+
+**Dynamic Programming 2**
+1. [Maximum Amount of Gold](https://github.com/MarufHassan/coursera-data-structures-algorithms/tree/master/algorithmic-toolbox/week6_dynamic_programming2/1_maximum_amount_of_gold)
+2. Partitioning Souvenirs
+3. [Maximum Value of an Arithmetic Expression](https://github.com/MarufHassan/coursera-data-structures-algorithms/tree/master/algorithmic-toolbox/week6_dynamic_programming2/3_maximum_value_of_an_arithmetic_expression)
 
 
 **This is only for discussion and communication. Please don't use this for submission of assignments.**
