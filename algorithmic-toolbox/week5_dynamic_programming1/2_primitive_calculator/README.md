@@ -6,7 +6,7 @@
 
 **Input Format.** The input consists of a single integer 1 ≤ _n_ ≤ 10<sup>6</sup>.
 
-**Output Format.** In the first line, output the minimum number _k_ of operations needed to get _n_ from 1. In the second line output a sequence of intermediate numbers. That is, the second line should contain positive integers _a_<sub>_0_</sub>, _a_<sub>_2_</sub>, . . . , _a_<sub>_k-1_</sub> such that _a_<sub>_0_</sub> = 1, _a_<sub>_k-1_</sub> = _n_ and for all 0 ≤ _i_ < _k_ − 1, _a_<sub>_i+1_</sub> is equal to either _a_<sub>_i_</sub> + 1, 2_a_<sub>_i_</sub>, or 3_a_<sub>_i_</sub>. If there are many such sequences, output any one of them.
+**Output Format.** In the first line, output the minimum number _k_ of operations needed to get _n_ from 1. In the second line output a sequence of intermediate numbers. That is, the second line should contain positive integers _a_<sub>_0_</sub>, _a_<sub>_2_</sub>, . . . , _a_<sub>_k-1_</sub> such that _a_<sub>_0_</sub> = 1, _a_<sub>_k-1_</sub> = _n_ and for all 0 ≤ _i_ < _k_ − 1, _a_<sub>_i+1_</sub> is equal to either _a_<sub>_i_</sub> + 1, 2 _a_<sub>_i_</sub>, or 3 _a_<sub>_i_</sub>. If there are many such sequences, output any one of them.
 
 **Sample 1.**
 
