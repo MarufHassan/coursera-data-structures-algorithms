@@ -19,13 +19,32 @@ You will also learn how services like Dropbox manage to upload some large files 
 Assignment | Name | Score
 :--- | :--- | ---
 Week 1 | Basic Data Structures | 100/100
+Week 3 | Priority Queues and Disjoint Sets | 100/100
+Week 4 | Hash Tables | 100/100
+Week 6 | Binary Search Trees | 60/100
 
-**Basic Data Structures**
+- [x] [Basic Data Structures](/../../tree/master/coursera/data-structures-algorithms-specialization/data-structures/week1_basic_data_structures)
+	- [x] [Check brackets in the code](/../../tree/master/coursera/data-structures-algorithms-specialization/data-structures/week1_basic_data_structures/1_check_brackets_in_code)
+	- [x] [Compute tree height](/../../tree/master/coursera/data-structures-algorithms-specialization/data-structures/week1_basic_data_structures/2_tree_height)
+	- [x] [Network packet processing simulation](/../../tree/master/coursera/data-structures-algorithms-specialization/data-structures/week1_basic_data_structures/3_network_packet_processing_simulation)
+	- [x] [Extending stack interface](/../../tree/master/coursera/data-structures-algorithms-specialization/data-structures/week1_basic_data_structures/4_stack_with_max)
 
-1. [Check brackets in the code](/week1_basic_data_structures/1_check_brackets_in_code)
-2. [Compute tree height](/data-structures/week1_basic_data_structures/2_tree_height)
-3. [Network packet processing simulation](/week1_basic_data_structures/3_network_packet_processing_simulation)
-4. [Extending stack interface](/week1_basic_data_structures/4_stack_with_max)
+- [x] [Priority Queues and Disjoint Sets](/../../tree/master/coursera/data-structures-algorithms-specialization/data-structures/week3_priority_queues_and_disjoint_sets)
+	- [x] [Convert array into heap](/../../tree/master/coursera/data-structures-algorithms-specialization/data-structures/week3_priority_queues_and_disjoint_sets/1_make_heap)
+	- [x] [Parallel processing](/../../tree/master/coursera/data-structures-algorithms-specialization/data-structures/week3_priority_queues_and_disjoint_sets/2_job_queue)
+	- [x] [Merging tables](/../../tree/master/coursera/data-structures-algorithms-specialization/data-structures/week3_priority_queues_and_disjoint_sets/3_merging_tables)
+
+- [x] [Hash Tables](/../../tree/master/coursera/data-structures-algorithms-specialization/data-structures/week4_hash_tables_and_hash_functions)
+	- [x] [Phone book](/../../tree/master/coursera/data-structures-algorithms-specialization/data-structures/week4_hash_tables_and_hash_functions/1_phone_book)
+	- [x] [Hashing with chains](/../../tree/master/coursera/data-structures-algorithms-specialization/data-structures/week4_hash_tables_and_hash_functions/2_hash_chains)
+	- [x] [Find pattern in text](/../../tree/master/coursera/data-structures-algorithms-specialization/data-structures/week4_hash_tables_and_hash_functions/3_hash_substring)
+
+- [ ] [Binary Search Trees](/../../tree/master/coursera/data-structures-algorithms-specialization/data-structures/week6_binary_search_trees)
+	- [x] [Binary tree traversals](/../../tree/master/coursera/data-structures-algorithms-specialization/data-structures/week6_binary_search_trees/1_tree_orders)
+	- [x] [Is it a binary search tree?](/../../tree/master/coursera/data-structures-algorithms-specialization/data-structures/week6_binary_search_trees/2_is_bst)
+	- [x] [Is it a binary search tree? Hard version](/../../tree/master/coursera/data-structures-algorithms-specialization/data-structures/week6_binary_search_trees/3_is_bst_hard)
+	- [ ] Set with range sums
+	- [ ] Rope
 
 
 **This is only for discussion and communication. Please don't use this for submission of assignments.**
